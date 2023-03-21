@@ -1,7 +1,0 @@
-*.vscode
-*.pyc
-*.db
-venv
-/.idea
-*.log
-.DS_Store
