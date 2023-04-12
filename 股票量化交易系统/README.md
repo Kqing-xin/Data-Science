@@ -200,7 +200,7 @@ SimpleBackTest_info(df1_Nday,
 风险N日: 最终资金: 3728 策略胜率0.67，收益率:0.24
 ```
 
-![image-20230412154202566](C:\Users\13169\AppData\Roaming\Typora\typora-user-images\image-20230412154202566.png)
+![image-20230412154202566](https://github.com/Kqing-xin/Data-Science/blob/main/%E8%82%A1%E7%A5%A8%E9%87%8F%E5%8C%96%E4%BA%A4%E6%98%93%E7%B3%BB%E7%BB%9F/image-20230412154202566.png)
 
 ## 贡献
 
