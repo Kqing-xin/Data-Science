@@ -19,7 +19,7 @@
 你可以通过在命令行中运行以下命令来下载该项目：
 
 ```
-git clone https://github.com/your_username/stock-trading-system.git
+git clone https://github.com/Kqing-xin/Data-Science/股票量化交易系统.git
 ```
 
 ### 2. 安装依赖
