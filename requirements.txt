@@ -1,4 +1,0 @@
-pandas==1.4.4
-numpy==1.24.2
-tushare==1.2.89
-matplotlib==3..5.2
